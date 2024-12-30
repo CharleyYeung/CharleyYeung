@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CharleyYeung
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning to analyze data with python
+- 🌱 I’m currently learning to analyze data with python and R
 - 💞️ I’m looking to collaborate on data analyzing projects
 - 📫 Please feel free to inbox me
 - 😄 Pronouns: Straight man
